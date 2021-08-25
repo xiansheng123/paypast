@@ -2,7 +2,8 @@
 
 ### Login feature
 
-1. login/logout
+1. login
+2. add new user
 
 ### Topup feature
 
